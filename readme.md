@@ -4,7 +4,7 @@ A React Three Fiber (R3F) implementation of a hexagon-based image transition sha
 
 [**Live Demo**](https://hex-transition.pages.dev/)
 
-<img src='Screenshot.png' width="480px">
+<img width="835" height="1001" alt="image" src="https://github.com/user-attachments/assets/acd22b7d-dea4-49a2-be66-583c95d2e716" />
 
 ## About
 
